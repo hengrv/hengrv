@@ -5,7 +5,7 @@
 - 📚 data scientist and ml/dl researcher
 - 💻 enjoy building full-stack webapps with [create-t3-app](https://www.github.com/nexxeln/create-t3-app)
 - 🤝 open-source enthusiast
-- 🌍 based in the uk 🇬
+- 🌍 based in the uk 
 - 🏫 cs student @ [university of newcastle upon tyne](https://ncl.ac.uk)
   <!-- ## 🔭 Projects -->
   <!---->
