@@ -42,8 +42,8 @@
 
 - **M.Comp. (Hons) Computer Science** - University of Newcastle upon Tyne [2023-2027]
 
-<!--#### research
+#### research
 
-- **published**: "Cluster-Based Short Term Load Forecasting for Low Voltage Networks Using Neural and Statistical Models" CIRED, 2025-->
+- **published**: "Cluster-Based Short Term Load Forecasting for Low Voltage Networks Using Neural and Statistical Models" CIRED, 2026
 
 <!-- [![hengrv's GitHub stats](github-readme-stats-psi-lac-94.vercel.app/api?username=hengrv&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
