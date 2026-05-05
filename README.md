@@ -1,11 +1,12 @@
 ### hey there, i'm hen
 
-### data scientist
+### quantum computing researcher / data scientist
 
+- machine learning research
 - data scientist and ml/dl researcher
-- 🤝 open-source enthusiast
-- 🌍 based in the uk 
-- 🏫 cs student @ [university of newcastle upon tyne](https://ncl.ac.uk)
+- open-source enthusiast
+- based in the uk 
+- cs student @ [university of newcastle upon tyne](https://ncl.ac.uk)
   <!-- ## 🔭 Projects -->
   <!---->
   <!-- - **CLAuDE (Climate Analysis using Digital Estimations)** - An open-source climate model focused on simplicity and accessibility as a learning tool. Built with Python. -->
