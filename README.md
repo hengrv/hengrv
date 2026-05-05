@@ -3,7 +3,7 @@
 ### quantum computing researcher / data scientist
 
 - machine learning research
-- data scientist and ml/dl researcher
+- data scientist and ml/dl research
 - open-source enthusiast
 - based in the uk 
 - cs student @ [university of newcastle upon tyne](https://ncl.ac.uk)
