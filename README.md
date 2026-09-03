@@ -1,6 +1,6 @@
-### hey there, i'm hen
+## hey there, i'm hen
 
-### quantum computing researcher / data scientist
+### about me
 
 - quantum computing / quantum foundations
 - interdisciplinary collaboration
