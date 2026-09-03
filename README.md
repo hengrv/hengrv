@@ -22,7 +22,9 @@
 
 #### research
 
-Robertson, B-A*; Jackson, L.; Groves, H.; and Hance, J.R. *Emotional Modulation of Temporal Order Memory in Childhood: A Quantum-Informed Account*. At Quantum Information and Probability: from Foundations to Engineering (QIP26), 11 June 2026. Växjö, Sweden. *presenter
+- Pre-Print: *Modelling Emotional Memory in Children with Tensor Networks*. Groves, H, Jackson, L.F.; Hance, J.R.; Robertson, B-A, https://arxiv.org/abs/2606.28470
+
+- Robertson, B-A*; Jackson, L.; Groves, H.; and Hance, J.R. *Emotional Modulation of Temporal Order Memory in Childhood: A Quantum-Informed Account*. At Quantum Information and Probability: from Foundations to Engineering (QIP26), 11 June 2026. Växjö, Sweden. *presenter
 
 <!-- **published**: "Cluster-Based Short Term Load Forecasting for Low Voltage Networks Using Neural and Statistical Models" CIRED, 2026 -->
 
