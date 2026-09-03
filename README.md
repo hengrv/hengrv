@@ -4,10 +4,10 @@
 
 - quantum computing / quantum foundations
 - interdisciplinary collaboration
-- ml/dl research
+- ml/dl research + data science
 - open-source enthusiast
 - based in the uk 
-- cs student @ [university of newcastle upon tyne](https://ncl.ac.uk)
+- cs masters student @ [university of newcastle upon tyne](https://ncl.ac.uk)
   <!-- ## 🔭 Projects -->
   <!---->
   <!-- - **CLAuDE (Climate Analysis using Digital Estimations)** - An open-source climate model focused on simplicity and accessibility as a learning tool. Built with Python. -->
